@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jef 📯
-- I'm working [Datakhi](https://www.linkedin.com/company/datakhi/), a small company focused on ecology and data 🍁🌍💾
+- I'm working @[Datakhi](https://www.linkedin.com/company/datakhi/), a small company focused on ecology and data 🍁🌍💾
 - 👀 I’m interested in 🐜 🎵 🌳 🥾 📚 🗺️ 🐝 🍷 📊 =)
 - 🌱 I’m currently learning how to master git ...
 - 💞️ I’m looking to collaborate on ecological matters ...
